@@ -1,0 +1,3 @@
+﻿cards.cdb	c19a5351a9c1b67dd28f3fa873403ef0
+pack.db	7e611dc0026b9c2d3637aeb363a42f99
+strings.conf	aec3a8c7c19b39c94d9df15de52693f3
